@@ -1,0 +1,2 @@
+Sample Microblog Webapp
+Following railstutorial.org
