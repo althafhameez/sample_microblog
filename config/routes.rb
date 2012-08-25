@@ -2,11 +2,11 @@ SampleMicroblog::Application.routes.draw do
   get "static_pages/home"
   get "static_pages/about"
   get "static_pages/help"
-
+  get "static_pages/contact"
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
-  # Sample of regular route:
+  # Sample of regular route:key => "value", 
   #   match 'products/:id' => 'catalog#view'
   # Keep in mind you can assign values other than :controller and :action
 
